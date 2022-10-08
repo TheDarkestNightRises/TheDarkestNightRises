@@ -2,11 +2,15 @@
           
 # Hi there, I'm Emanuel - aka TheDarkestNightRises 👋 
 
+
+![7pvM](https://user-images.githubusercontent.com/91905169/194719990-25fb0234-6f6a-4314-9044-fc3ba4bdd756.gif)
+
+
 ## I'm a student at Via University
 
-- 🌱 I’m currently learning how to make games and develop websites.
-- 🎯 2022 Goals: Improve as a developer
--  🤘 Fun fact: I like heavy metal
+- I’m currently learning how to make games and develop websites.
+- 2022 Goals: Improve as a developer
+- Fun fact: I like heavy metal
 
 ### Languages and Tools :
 ![unity (1)](https://user-images.githubusercontent.com/91905169/194719157-224857cd-8a04-44e3-bd98-ee04feefabd9.png)
