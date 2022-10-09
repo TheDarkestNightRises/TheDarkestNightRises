@@ -6,7 +6,7 @@
 ![7pvM](https://user-images.githubusercontent.com/91905169/194719990-25fb0234-6f6a-4314-9044-fc3ba4bdd756.gif)
 
 
-## I'm a student at Via University
+## I'm a student at VIA University
 
 - I’m currently learning how to make games and develop websites.
 - 2022 Goals: Improve as a developer
