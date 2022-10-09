@@ -10,7 +10,7 @@
 
 - I’m currently learning how to make games and develop websites.
 - 2022 Goals: Improve as a developer
-- Fun fact: I like heavy metal
+- Fun fact: I like heavy metal 🤘
 
 ### Languages and Tools :
 
@@ -23,7 +23,11 @@
 <img align="left" alt="MySQL" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Fedora" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" style="padding-right:20px;" />
+<br>
+<br> 
 
+### Stats :
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkestNightRises&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
