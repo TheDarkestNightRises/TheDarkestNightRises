@@ -24,10 +24,6 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Fedora" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" style="padding-right:20px;" />
 <br>
-<br> 
 
-### Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkestNightRises&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
