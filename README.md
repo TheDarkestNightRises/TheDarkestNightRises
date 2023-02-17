@@ -1,6 +1,6 @@
 
           
-# Hi there, I'm Emanuel - aka TheDarkestNightRises 👋 
+# Hi there, I'm Emanuel  👋 
 
 
 ![7pvM](https://user-images.githubusercontent.com/91905169/194719990-25fb0234-6f6a-4314-9044-fc3ba4bdd756.gif)
