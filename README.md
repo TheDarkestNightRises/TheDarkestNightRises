@@ -9,7 +9,7 @@
 ## I'm a student at VIA University
 
 - I’m currently learning how to make games and develop websites.
-- 2023 Goals: Improve as a developer
+- 2024 Goals: Improve as a developer
 - Fun fact: I like heavy metal 🤘
 
 ### Languages and Tools :
